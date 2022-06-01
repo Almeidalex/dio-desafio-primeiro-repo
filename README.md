@@ -1,3 +1,3 @@
-# dio-desafio-primeiro-repo
-Desafio sobre Git/Git Hub
-Relembrando o uso do Git/Git Hub
+# my-career-dio
+Repositório para meus estudos na Dio.
+Iniciando pelo bootcamp TQI Fullstack Developer
